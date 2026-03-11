@@ -1,53 +1,38 @@
-Art sharing platform website design
+  Home Page
+    Star Silence Painting Art | Capturing Light and Shadow, Freezing Time
+    Main Title: In the Silence of the Stars, Encounter the Echo of Art 
+    Subtitle: Star Silence Painting Art - Focusing on Original Painting and Personal Customization
+      About Us
+    "Star Silence" originate from our aspiration for the creative state: like the vast and profound night sky, and like the quiet and concentrated night. 
+    We are a team composed of young artists, dedicated to breaking the boundaries between art and life. Whether it's the magnificent landscapes or the touching portraits, we believe that every painting has its own unique soul. We do not produce mass-produced replicas, but only create warm original art.
+      Our services
+    Title: With the brush, realize your artistic imagination
+    Personal Portrait Customization: Create a unique portrait for you or your family to cherish memories.
+    Home Decorative Paintings: Tailor-made decorative paintings according to your home style.
+    Corporate Collaboration: Wall painting, commercial illustration, brand visual design.
+      Why choose Star Silence?
+    Hand-drawn Artistry: Every stroke is an expression of the artist's emotions. No printed paintings.
+    Diverse Styles: Oil painting, watercolor, sketching, board painting - meet various aesthetic needs.
+    Lifetime Maintenance: Customized works receive professional framing advice and color maintenance consultation.
 
-Homepage
+  Pricing Page
+    Title: Transparent Pricing, Valuing Art
+    Cautionary Note: The prices of painting works are significantly influenced by size, complexity, and production time. The following is the basic price range. The final price must be confirmed through communication based on specific requirements.
+    - Personal Portrait Customization
+    - Home/Commercial Decorative Paintings
+    - Business Illustration / Design
+      Process description
+    Submit Requirements: Let us know your ideas through the contact information below.
+    Communicate Details: The artist will have one-on-one communication with you to assess the time and material costs.
+    Sign Contract: After confirming the quotation, pay a 50% deposit and schedule the drawing. 
+    Delivery of work: During the drawing process, progress can be communicated. After completion, the final payment will be made and the work will be delivered.
 
-Top Navigation Bar: Website logo, main navigation links, search bar, login/register links
-Welcome Banner: Carousel displaying the latest platform events and important announcements
-Featured Artwork Showcase: Grid layout showcasing a selection of diverse artworks
-Trending Artwork Ranking: Displays the most popular artworks recently (sorted by likes/views)
-Upcoming Exhibitions: Displays information about upcoming art exhibitions and events (date, location, theme)
-Footer: Website introduction, contact information, social media links, copyright information
-
-Explore/Filter page
-
-Advanced Search Function: Provides a keyword search bar and multiple filter options
-Filter Options:
-- By art type (oil painting, watercolor, drawing, digital art, etc.)
-- By theme (landscape, portrait, abstract, still life, etc.)
-- By style (realism, impressionism, modern, surrealism, etc.)
-- By color preference
-- By upload time (newest, most popular)
-Search Results Display: Adaptive grid layout displaying filtered artworks
-Related Artist Recommendations: Recommends related artists based on search keywords
-
-User Profile/Creator Center page
-
-Profile Section: Profile picture, username, bio, social media links
-Artwork Management:
-- My Portfolio: Grid display of all uploaded artworks
-- Artwork Details: View detailed information for each artwork (views, likes, favorites)
-- Comments Management: View and reply to comments on your artworks
-Creation Tools:
-- Upload new artwork (supports multiple formats, add title, description, tags)
-- Edit existing artwork information
-- Set artwork visibility (public/private)
-Personal Bulletin Board: Write and post personal status updates or announcements
-
-Exhibition Information page
-
-Exhibition Calendar View: Displays all upcoming exhibitions by month
-Exhibition List: Exhibition information cards arranged by date
-- Exhibition poster/image
-- Exhibition name, date, location
-- Exhibition description and participating artists Ticket information and links (if applicable)
-Map integration: Displays the geographical location of exhibition venues
-Subscription feature: Users can subscribe to receive notifications about upcoming exhibitions
-
-Community/Interaction page
-
-Themed discussion forums: Discussion sections categorized by topic (sharing techniques, discussing materials, art criticism, etc.)
-Trending topics: Displays the most active discussion topics in the community
-Artist interviews: Regularly features artists on the platform
-Tutorials and resources: Painting tutorials, technique-sharing articles
-Events section: Information on online competitions and challenges hosted by the platform
+  Contact Page
+  Title: Looking forward to communicating with you | Let art enter your life
+  Whether you want to have a custom portrait made, or need advice on art collaboration, or simply want to talk about art, we welcome you to contact us at any time. Contact Information
+  WeChat ID: Contact Number:
+  Email address:
+  Studio address:
+  Please make an appointment in advance before visiting so that we can arrange for the artist to receive you. 
+  Online consultation form
+  If you don't want to make a call, you can also leave a message. We will reply to you within 24 hours.
